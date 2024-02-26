@@ -1,0 +1,71 @@
+#Hooks
+
+- useState
+- useEffect
+- useContext
+- useReducer
+- useMemo
+- useCallback
+- useRef
+
+#HOC
+
+- what/when/why/how to use it
+- Reuseable
+- Testable
+- Modualrity
+
+#Life Cycle Methods
+
+- Mounting
+- Updating
+- Unmounting
+
+#State Management
+
+- State/Props
+- Props Drilling
+- Context
+- Redux Toolkit / Zustand : how/when/why ? to use it
+
+#Custom Hooks
+
+- when/why/how to use it ?
+- code clean/maintable/readable/resueable
+
+#Lazy Loading
+
+- Code Spliting
+- Chunking
+- Suspence
+
+#Virtual DOM
+
+- Reconcilition
+- React Fiber
+- Render
+- Diffing Algorithm
+
+#SSR vs CSR
+
+#React Router
+
+- react-router
+- protected routes
+- Role based access control
+
+#Performance
+
+- Shimmer UI (Skleton UI)
+- Lazy Loading
+- Asset Optimization
+- JS CSS Optimization
+- Write Optimization Code
+- 1 Bundler Level Optimization
+- CDN/Server Level
+
+#Styling
+
+- Tailwind why ?
+- bootstrap
+- css/scss
